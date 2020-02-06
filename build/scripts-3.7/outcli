@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!python
 
 import sys
 from 101703375_p2 import outliers_detection
