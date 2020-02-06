@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="101703375_p2",
-    version="0.0.5",
+    version="0.0.6",
     author="Nishant Dhanda",
     author_email="ndhanda_be17@thapar.edu",
     description="Removal of outliers using pandas",
